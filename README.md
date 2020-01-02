@@ -6,7 +6,7 @@ Overview:
 * [Planning of Think Week](https://github.com/elsewhat/thinkweek-dparnas-2020/milestone/1)
 * [Topic 1: World-class open APIs - Design, implement, operate and measure the effect](https://github.com/elsewhat/thinkweek-dparnas-2020/milestone/2)
 * [Topic 2: Future of Work](https://github.com/elsewhat/thinkweek-dparnas-2020/milestone/3)
-* [Topic 3:IT opportunities within renewable energy] (https://github.com/elsewhat/thinkweek-dparnas-2020/milestone/4)
+* [Topic 3:IT opportunities within renewable energy](https://github.com/elsewhat/thinkweek-dparnas-2020/milestone/4)
 * Likely 1 more topics to focus  
 
 ## What is ThinkWeek
