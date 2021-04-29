@@ -1,4 +1,4 @@
-# Think Week 2020 for Dagfinn Parnas
+# Think Week 2021 for Dagfinn Parnas
 For 2020, I will set aside a Think Week in order to reflect and deep dive into work topics important for me personally. 
 I prioritize this instead of participating in conferences or attending courses.
 
