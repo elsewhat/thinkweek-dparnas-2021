@@ -1,1 +1,1 @@
-# Introduction
+# Smart contracts

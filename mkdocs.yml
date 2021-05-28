@@ -31,23 +31,6 @@ markdown_extensions:
       guess_lang: false
   - toc:
       permalink: false
-  - pymdownx.arithmatex
-  - pymdownx.betterem:
-      smart_enable: all
-  - pymdownx.caret
-  - pymdownx.critic
-  - pymdownx.details
-  - pymdownx.inlinehilite
-  - pymdownx.magiclink
-  - pymdownx.mark
-  - pymdownx.smartsymbols
-  - pymdownx.superfences:
-      custom_fences:
-        - name: mermaid
-          class: mermaid
-  - pymdownx.tasklist:
-      custom_checkbox: true
-  - pymdownx.tilde
 
 
 
