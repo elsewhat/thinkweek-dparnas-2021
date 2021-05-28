@@ -15,7 +15,7 @@ copyright: 'Copyright &copy; 2021 Dagfin Parnas'
 # Configuration, do not edit
 use_directory_urls: true
 theme:
-  name: 'gitbook'
+  name: 'material'
   language: 'en'
   font:
     text: 'Roboto'
@@ -32,7 +32,10 @@ markdown_extensions:
   - toc:
       permalink: false
 
-
+extra:
+  social:
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/dparnas
 
 
 # Enable search functionality
@@ -45,10 +48,8 @@ plugins:
 #  - macros
 # - markdownmermaid
 
-# Omnia Catalog Documentation main navigation menu, edit to create your sub menu; retain main menu.
 nav:
-  - Get started:
-    - Introduction:                        README.md
-    - World class APIs:                    world-class-apis/README.md
-    - Smart contracts:                     smart-contracts/README.md
-    - Future of Work and the rise of DAOs: future-of-work-and-daos/README.md
+  - ThinkWeek:                        README.md
+  - World class APIs:                    world-class-apis/README.md
+  - Smart contracts:                     smart-contracts/README.md
+  - Future of Work and the rise of DAOs: future-of-work-and-daos/README.md
