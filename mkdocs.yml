@@ -30,7 +30,10 @@ extra:
       link: https://twitter.com/dparnas
 
 nav:
-  - ThinkWeek:                        README.md
+  - ThinkWeek:                          README.md
   - World class APIs:                    world-class-apis/README.md
-  - Smart contracts:                     smart-contracts/README.md
+  - Smart contracts:
+    - Overview:                          smart-contracts/README.md
+    - Learn ERC-721:                     smart-contracts/erc-721.md
+    - Code on blockchain:                smart-contracts/code-on-blockchain.md
   - Future of Work and the rise of DAOs: future-of-work-and-daos/README.md
