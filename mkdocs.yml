@@ -1,0 +1,71 @@
+# Project information, do not edit
+site_name:        'Thinkweek 2021- @dparnas'
+site_description: 'Summary from thinkweek for @dparnas'
+site_author:      'Dagfinn Parnas'
+
+
+# Repository, edit to point to appropriate repo
+repo_name: 'elsewhat/thinkweek-dparnas-2021'
+repo_url:  'https://github.com/elsewhat/thinkweek-dparnas-2021'
+edit_uri:  'edit/main/docs/'
+
+# Copyright, do not edit
+copyright: 'Copyright &copy; 2021 Dagfin Parnas'
+
+# Configuration, do not edit
+use_directory_urls: true
+theme:
+  name: 'gitbook'
+  language: 'en'
+  font:
+    text: 'Roboto'
+    code: 'Roboto Mono'
+  icon:
+    repo: fontawesome/brands/github
+
+# Extensions, do not edit
+markdown_extensions:
+  - attr_list
+  - admonition
+  - codehilite:
+      guess_lang: false
+  - toc:
+      permalink: false
+  - pymdownx.arithmatex
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.inlinehilite
+  - pymdownx.magiclink
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+
+
+
+
+# Enable search functionality
+plugins:
+  - search:
+      separator: '[\s]+'
+      lang: en
+      prebuild_index: true
+#  - git-revision-date
+#  - macros
+# - markdownmermaid
+
+# Omnia Catalog Documentation main navigation menu, edit to create your sub menu; retain main menu.
+nav:
+  - Get started:
+    - Introduction:                        README.md
+    - World class APIs:                    world-class-apis/README.md
+    - Smart contracts:                     smart-contracts/README.md
+    - Future of Work and the rise of DAOs: future-of-work-and-daos/README.md
