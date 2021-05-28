@@ -3,11 +3,9 @@ site_name:        'Thinkweek 2021- @dparnas'
 site_description: 'Summary from thinkweek for @dparnas'
 site_author:      'Dagfinn Parnas'
 
-
-# Repository, edit to point to appropriate repo
 repo_name: 'elsewhat/thinkweek-dparnas-2021'
 repo_url:  'https://github.com/elsewhat/thinkweek-dparnas-2021'
-edit_uri:  'edit/main/docs/'
+edit_uri:  'edit/master/docs/'
 
 # Copyright, do not edit
 copyright: 'Copyright &copy; 2021 Dagfin Parnas'
@@ -20,33 +18,16 @@ theme:
   font:
     text: 'Roboto'
     code: 'Roboto Mono'
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky        
   icon:
     repo: fontawesome/brands/github
-
-# Extensions, do not edit
-markdown_extensions:
-  - attr_list
-  - admonition
-  - codehilite:
-      guess_lang: false
-  - toc:
-      permalink: false
 
 extra:
   social:
     - icon: fontawesome/brands/twitter
       link: https://twitter.com/dparnas
-
-
-# Enable search functionality
-plugins:
-  - search:
-      separator: '[\s]+'
-      lang: en
-      prebuild_index: true
-#  - git-revision-date
-#  - macros
-# - markdownmermaid
 
 nav:
   - ThinkWeek:                        README.md

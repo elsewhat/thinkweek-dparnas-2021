@@ -1,2 +1,2 @@
 # Introduction
-31.05 I started my thinkweek
+After learning of the concept of thinkweek, I've been eager to experience it myself.
