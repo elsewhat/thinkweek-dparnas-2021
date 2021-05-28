@@ -5,8 +5,8 @@ I prioritize this instead of participating in conferences or attending courses.
 Overview: 
 * [Planning of Think Week](https://github.com/elsewhat/thinkweek-dparnas-2020/milestone/1)
 * [Topic 1: World-class open APIs - Design, implement, operate and measure the effect](https://github.com/elsewhat/thinkweek-dparnas-2020/milestone/2)
-* [Topic 1: Smart contracts](https://github.com/elsewhat/thinkweek-dparnas-2021/milestone/5) 
-* [Topic 2: Future of Work](https://github.com/elsewhat/thinkweek-dparnas-2020/milestone/3)
+* [Topic 2: Smart contracts](https://github.com/elsewhat/thinkweek-dparnas-2021/milestone/5) 
+* [Topic 3: Future of Work](https://github.com/elsewhat/thinkweek-dparnas-2020/milestone/3)
 
 ## What is ThinkWeek
 The following figure from [Reservations.com](https://www.reservations.com/blog/resources/think-weeks/) sums up the practical aspects of a Think Week.
