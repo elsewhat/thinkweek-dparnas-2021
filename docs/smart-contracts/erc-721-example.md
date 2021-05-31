@@ -15,3 +15,4 @@ Note: The contract has some specific code related to cryptopunks and minting. Th
 I've done the following [Code review](https://github.com/elsewhat/thinkweek-dparnas-2021/pull/26/files) as a github pull request in order to learn the contract.
 
 In general, it's amazing how compact the contract actually is.
+![Code review screenshot](https://user-images.githubusercontent.com/1133607/120173015-e950a900-c203-11eb-921d-7cbeebe49584.png)
