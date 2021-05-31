@@ -1,0 +1,1 @@
+# Example of ERC-721 contract
