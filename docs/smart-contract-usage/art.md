@@ -1,18 +1,30 @@
 # Art
 
 ## Beeple
-Everydays - The First 5000 Days (massive compilation of artworks by Beeple) — $69 million
-https://niftygateway.com/itemdetail/primary/0x6e5dc5405baefb8c0166bcc78d2692777f2cbffb/21
+"In May 2007, the digital artist known as Beeple set out to create and post a new work of art online every day. He hasn’t missed a day since, creating a new digital picture every day for 5,000 days straight. Individually known as EVERYDAYS, collectively, the pieces form the core of EVERYDAYS: THE FIRST 5000 DAYS, one of the most unique bodies of work to emerge in the history of digital art.
 
-https://www.cnbc.com/2021/03/11/most-expensive-nft-ever-sold-auctions-for-over-60-million.html
+Consumers of internet culture will already be familiar with the prolific digital output of graphic designer and motion artist Mike Winkelmann, better known as Beeple. The South Carolina-based artist’s visionary, and often irreverent, digital pictures launched his meteoric rise to the top of the digital art world. He’s attracted 1.8 million followers on Instagram and high-profile collaborations with global brands ranging from Louis Vuitton to Nike, as well as performing artists from Katy Perry to Childish Gambino." - from [Christie's auction of The First 5000 days](https://onlineonly.christies.com/s/beeple-first-5000-days/beeple-b-1981-1/112924)
+
+![The First 5000 days](https://user-images.githubusercontent.com/1133607/120357855-2bfaaa00-c306-11eb-893b-70ce0aaa89ff.png)
+
+The First 5000 days sold for $69 million.
 
 ## Forever rose
+![Foreven rose](https://user-images.githubusercontent.com/1133607/120358079-6b28fb00-c306-11eb-9c3c-61169eac9374.png)
+
 http://www.foreverrose.io/
 
 ## Ghxsts
+![Ghxsts](https://user-images.githubusercontent.com/1133607/120358378-b5aa7780-c306-11eb-9019-e3fcdeeb15c7.png)
+Popular artist where the NFTs can be combined to create new art on the blockchain.
 
-## Pboy - The underground Sistine Chapel
+[Ghxsts on Opensea](https://opensea.io/collection/ghxsts)
 
-## Grimes
-https://niftygateway.com/profile/grimes
-https://www.theverge.com/2021/3/1/22308075/grimes-nft-6-million-sales-nifty-gateway-warnymph
+## The Underground Sistine Chapel by Pascal Boyart
+"The Underground Sistine Chapel is a modern version of Michelangelo's masterpiece, painted by Pascal Boyart during the 2020 lockdowns. The work was produced over a period of 5 months in a former gold foundry close to Paris. Each NFT represents one of the 400 characters in the Last Judgment fresco. All NFTs are 1/1 editions." - from [artist website](https://en.pboy-art.com/the-underground-sistine-chapel-nfts)
+
+![image](https://user-images.githubusercontent.com/1133607/120358973-6dd82000-c307-11eb-9e00-45e697201305.png)
+
+
+Project from famous graffiti artist Pboy
+[The Underground Sistine Chapel on Opensea](https://opensea.io/collection/the-underground-sistine-chapel-by-pboy)
