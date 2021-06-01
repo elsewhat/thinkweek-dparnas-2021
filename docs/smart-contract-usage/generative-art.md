@@ -24,9 +24,11 @@ Each piece is generated at the time of minting from a random hash value, influen
 
 Although synth poems are audio focused, a fitting visualization is added as an ode to early computer graphics that used vector displays to visualize analog signals. What you see is a direct representation of the sound signal, as it would appear on an oscilloscope." - from [artist's website](https://deafbeef.com/series/0)
 
-Example works: [Series 3: Entropy - Token 145](https://deafbeef.com/item/144) [Series 4: Glitchbox - Token 208](https://deafbeef.com/item/208)
+Example works: 
 
+- [Series 3: Entropy - Token 145](https://deafbeef.com/item/144) 
 ![image](https://user-images.githubusercontent.com/1133607/120360485-1470f080-c309-11eb-9399-f84457ce2ef9.png)
+- [Series 4: Glitchbox - Token 208](https://deafbeef.com/item/208)
 ![image](https://user-images.githubusercontent.com/1133607/120360532-205cb280-c309-11eb-823f-0f9b1c686317.png)
 
 Series 3 degrades in quality if it is transfered and series 4 allow the owner to experiment with parameters and change the art on the blockchain
