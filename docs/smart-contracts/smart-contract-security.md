@@ -5,49 +5,51 @@
 
 Contract with vulnerability if the attacker knows which ids are extra valuable.
 
-´´´
-/**
- * Community grant minting.
- */
-function mintWithPunkOrGlyph(uint _createVia) external reentrancyGuard returns (uint) {
-    require(communityGrant);
-    require(!marketPaused);
-    require(_createVia > 0 && _createVia <= 10512, "Invalid punk/glyph index.");
-    require(creatorNftMints[_createVia] == 0, "Already minted with this punk/glyph");
-    if (_createVia > 10000) {
-        // It's a glyph
-        // Compute the glyph ID
-        uint glyphId = _createVia.sub(10000);
-        // Make sure the sender owns the glyph
-        require(IERC721(glyphs).ownerOf(glyphId) == msg.sender, "Not the owner of this glyph.");
-    } else {
-        // It's a punk
-        // Compute the punk ID
-        uint punkId = _createVia.sub(1);
-        // Make sure the sender owns the punk
-        require(Cryptopunks(punks).punkIndexToAddress(punkId) == msg.sender, "Not the owner of this punk.");
+```
+
+   /**
+     * Community grant minting.
+     */
+    function mintWithPunkOrGlyph(uint _createVia) external reentrancyGuard returns (uint) {
+        require(communityGrant);
+        require(!marketPaused);
+        require(_createVia > 0 && _createVia <= 10512, "Invalid punk/glyph index.");
+        require(creatorNftMints[_createVia] == 0, "Already minted with this punk/glyph");
+        if (_createVia > 10000) {
+            // It's a glyph
+            // Compute the glyph ID
+            uint glyphId = _createVia.sub(10000);
+            // Make sure the sender owns the glyph
+            require(IERC721(glyphs).ownerOf(glyphId) == msg.sender, "Not the owner of this glyph.");
+        } else {
+            // It's a punk
+            // Compute the punk ID
+            uint punkId = _createVia.sub(1);
+            // Make sure the sender owns the punk
+            require(Cryptopunks(punks).punkIndexToAddress(punkId) == msg.sender, "Not the owner of this punk.");
+        }
+        creatorNftMints[_createVia]++;
+        return _mint(msg.sender, _createVia);
     }
-    creatorNftMints[_createVia]++;
-    return _mint(msg.sender, _createVia);
-}
 
-function _mint(address _to, uint createdVia) internal returns (uint) {
-    require(_to != address(0), "Cannot mint to 0x0.");
-    require(numTokens < TOKEN_LIMIT, "Token limit reached.");
-    uint id = randomIndex();
+    function _mint(address _to, uint createdVia) internal returns (uint) {
+        require(_to != address(0), "Cannot mint to 0x0.");
+        require(numTokens < TOKEN_LIMIT, "Token limit reached.");
+        uint id = randomIndex();
 
-    numTokens = numTokens + 1;
-    _addNFToken(_to, id);
+        numTokens = numTokens + 1;
+        _addNFToken(_to, id);
 
-    emit Mint(id, _to, createdVia);
-    emit Transfer(address(0), _to, id);
-    return id;
-}
-´´´
+        emit Mint(id, _to, createdVia);
+        emit Transfer(address(0), _to, id);
+        return id;
+    }
+
+```
 
 [Exploit contract](https://etherscan.io/address/0x270ff2308a29099744230de56e7b41c8ced46ffb)
 
-´´´
+```
 pragma solidity 0.8.4;
 
 interface IMeebits {
@@ -101,7 +103,7 @@ contract Exploit {
     
 }
 }
-´´´
+```
 
 Attacker would do the following:
 1. Create contract with the official meebit contract as a parameter. Attacker address would now be set as owner
@@ -115,7 +117,7 @@ Attacker would do the following:
 ## Attack - Re-entrancy
 [https://solidity-by-example.org/hacks/re-entrancy/](https://solidity-by-example.org/hacks/re-entrancy/)
 
-´´´
+```
 contract Attack {
     EtherStore public etherStore;
 
@@ -141,7 +143,7 @@ contract Attack {
         return address(this).balance;
     }
 }
-´´´
+```
 
 Preventative techniques:
 - Ensure all state changes happen before calling external contracts
@@ -153,7 +155,7 @@ Example of attack:
 ## Attack - Overflow
 [https://solidity-by-example.org/hacks/overflow/](https://solidity-by-example.org/hacks/overflow/)
 
-´´´
+```
 contract Attack {
     TimeLock timeLock;
 
@@ -176,7 +178,7 @@ contract Attack {
         timeLock.withdraw();
     }
 }
-´´´
+```
 
 Preventative techniques:
 
@@ -185,7 +187,7 @@ Preventative techniques:
 ## Attack - Front running
 Transactions take some time before they are mined. An attacker can watch the transaction pool and send a transaction, have it included in a block before the original transaction. This mechanism can be abused to re-order transactions to the attacker's advantage.
 
-´´´
+```
 1. Alice deploys FindThisHash with 10 Ether.
 2. Bob finds the correct string that will hash to the target hash. ("Ethereum")
 3. Bob calls solve("Ethereum") with gas price set to 15 gwei.
@@ -194,7 +196,7 @@ Transactions take some time before they are mined. An attacker can watch the tra
    than Bob (100 gwei).
 6. Eve's transaction was mined before Bob's transaction.
    Eve won the reward of 10 ether.
- ´´´  
+``` 
 
 Preventative techniques:
 
@@ -237,14 +239,14 @@ Preventative techniques:
 [https://solidity-by-example.org/hacks/hiding-malicious-code-with-external-contract/](https://solidity-by-example.org/hacks/hiding-malicious-code-with-external-contract/)
 In Solidity any address can be casted into specific contract, even if the contract at the address is not the one being casted.
 
-´´´
+```
 contract Foo {
     Bar bar;
 
     constructor(address _bar) {
         bar = Bar(_bar);
     }
-´´´
+```
 
 In the code above, there is no guarantee bar is of the class Bar. The owner calling the constructor could have passed another contract.
 
