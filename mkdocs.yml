@@ -34,22 +34,22 @@ nav:
     - Overview:                          README.md
     - Day 1:                              day1.md
   - World class APIs:                    world-class-apis/README.md
-  - Smart contracts tech:
+  - Smart contract tech:
     - Overview:                          smart-contracts/README.md
     - Learn ERC-721:                     smart-contracts/erc-721.md
     - ERC-721 example:                    smart-contracts/erc-721-example.md
     - ERC-721 best practice:              smart-contracts/erc-721-best-practice.md
     - Smart contract security:               smart-contracts/smart-contract-security.md     
     - ERC-721 events:                    smart-contracts/erc-721-events.md
-  - Smart contracts usage:
-    - Overview:                           smart-contracts-usage/README.md
-    - Collectibles:                           smart-contracts-usage/collectibles.md
-    - Metaverse:                           smart-contracts-usage/metaverse.md
-    - Art:                           smart-contracts-usage/art.md
-    - Generative art:                           smart-contracts-usage/generative-art.md
-    - Exclusive access:                           smart-contracts-usage/exclusive-access.md
-    - Voting:                           smart-contracts-usage/voting.md
-    - DeFi:                           smart-contracts-usage/defi.md
-    - Oracles:                           smart-contracts-usage/oracles.md
+  - Smart contract usage:
+    - Overview:                           smart-contract-usage/README.md
+    - Collectibles:                           smart-contract-usage/collectibles.md
+    - Metaverse:                           smart-contract-usage/metaverse.md
+    - Art:                           smart-contract-usage/art.md
+    - Generative art:                           smart-contract-usage/generative-art.md
+    - Exclusive access:                           smart-contract-usage/exclusive-access.md
+    - Voting:                           smart-contract-usage/voting.md
+    - DeFi:                           smart-contract-usage/defi.md
+    - Oracles:                           smart-contract-usage/oracles.md
 
   - Future of Work and the rise of DAOs: future-of-work-and-daos/README.md
