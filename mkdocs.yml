@@ -44,12 +44,12 @@ nav:
   - Smart contract usage:
     - Overview:                           smart-contract-usage/README.md
     - Collectibles:                           smart-contract-usage/collectibles.md
-    - Metaverse worlds:                           smart-contract-usage/metaverse-worlds.md
-    - Metaverse avatars:                           smart-contract-usage/metaverse-avatars.md
-    - Games:                              smart-contract-usage/games.md
     - Art:                           smart-contract-usage/art.md
     - Generative art:                           smart-contract-usage/generative-art.md
-    - Own a piece of internet history:                               smart-contract-usage/own-a-meme.md
+    - Games:                              smart-contract-usage/games.md
+    - Own a piece of internet history:                               smart-contract-usage/own-a-meme.md            
+    - Metaverse worlds:                           smart-contract-usage/metaverse-worlds.md
+    - Metaverse avatars:                           smart-contract-usage/metaverse-avatars.md
     - Exclusive access:                           smart-contract-usage/exclusive-access.md
     - Fundraising:                           smart-contract-usage/fundraising.md
     - Voting:                           smart-contract-usage/voting.md
