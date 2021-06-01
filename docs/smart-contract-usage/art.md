@@ -1,5 +1,10 @@
 # Art
 
+Art has been central in the NFT space, but traditional artist have not set their mark. 
+Sales of artwork are in many cases seen as patronage by collectors. 
+
+Many of the art project has novel ideas such as Ghxsts ability to combine two works or The Underground Sistine Chapel being broken into over 400 pieces and one of them contained the signature of the work. 
+
 ## Beeple
 "In May 2007, the digital artist known as Beeple set out to create and post a new work of art online every day. He hasn’t missed a day since, creating a new digital picture every day for 5,000 days straight. Individually known as EVERYDAYS, collectively, the pieces form the core of EVERYDAYS: THE FIRST 5000 DAYS, one of the most unique bodies of work to emerge in the history of digital art.
 
