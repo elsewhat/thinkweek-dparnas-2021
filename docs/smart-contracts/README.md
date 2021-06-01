@@ -1,6 +1,7 @@
 # Smart contracts
 
 Key takeaways: 
+
 1. A smart contract has many of the same properties as a user account on ethereum
 1. To interact with the smart contract you create transactions where the data field is defined (value is not required but can be used to move ETH to the contract). The interaction will usually incur a transaction cost (gas in ETH). The interaction is executed in the Ethereum Virtual Machine (EVM)
 1. To create a smart contract you use a transaction (this can be quite price as you pay pr byte of code)
