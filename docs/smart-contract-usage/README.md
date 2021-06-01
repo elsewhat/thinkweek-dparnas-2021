@@ -4,7 +4,7 @@ Multiple use case has already been discovered, but it's still early days and has
 
 Early adopters need to be extra careful with scams, unintentional errors in smart contracts, high transaction cost and so on. 
 
-During my ThinkWeek I've looked into various existing use cases that show potential.
+During my ThinkWeek I've looked into various existing use cases that already show potential. This is not intended to be an exhaustive list but to show prominent examples of the various types.
 
 ## Getting started as a user
 It may seems daunting at first to get started as user of smart contract projects. 
