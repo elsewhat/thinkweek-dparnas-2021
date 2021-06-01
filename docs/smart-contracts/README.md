@@ -14,7 +14,7 @@ DApp is used to refer to decentralized applications which only use smart contrac
 
 
 ## ETH.BUILD
-Strongly recommend Austin Griffith's video introduction using the https://eth.build/ tool.
+Strongly recommend Austin Griffith's video introduction using the [https://eth.build/](https://eth.build/) tool.
 In order to understand smart contracts you should first understand transactions (assume reader knows blockchain fundamentals)
 
 ### Transactions - ETH.BUILD
