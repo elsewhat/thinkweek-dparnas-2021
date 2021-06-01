@@ -7,6 +7,8 @@ In general, it's recommended to import their modules into your smart contract or
 Contracts are availble at the following github repo [https://github.com/OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts).
 
 The even have wizard at [https://wizard.openzeppelin.com/](https://wizard.openzeppelin.com/)
+![image](https://user-images.githubusercontent.com/1133607/120284119-37c17e80-c2bc-11eb-817c-b635a3683f4b.png)
+
 
 ## Scaffold-eth
 [Scaffold-eth](https://github.com/austintgriffith/scaffold-eth) appears to be a great set of tools for experimenting with smart contracts especially on test networks. You can easily run your own blockchain locally which you deploy the smart contract to and there is a reactjs ui automatically being generated for testing it. 
