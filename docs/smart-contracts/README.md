@@ -9,6 +9,7 @@ Key takeaways:
 1. You can query smart contract without incuring a transaction cost
 1. You can query events of a smart contract without incuring a transaction cost
 
+
 DApp is used to refer to decentralized applications which only use smart contracts as their backend. 
 
 
@@ -29,8 +30,8 @@ In order to understand smart contracts you should first understand transactions 
 
 
 ## Other sources
-"A smart contract is a program that runs at an address on Ethereum. They're made up of data and functions that can execute upon receiving a transaction." from https://ethereum.org/en/developers/docs/smart-contracts/anatomy/
+"A smart contract is a program that runs at an address on Ethereum. They're made up of data and functions that can execute upon receiving a transaction." from [https://ethereum.org/en/developers/docs/smart-contracts/anatomy/](https://ethereum.org/en/developers/docs/smart-contracts/anatomy/)
 
 "You need to deploy your smart contract in order for it to be available to users of an Ethereum network.
 
-To deploy a smart contract, you merely send an Ethereum transaction containing the code of the compiled smart contract without specifying any recipients." from https://ethereum.org/en/developers/docs/smart-contracts/deploying/
+To deploy a smart contract, you merely send an Ethereum transaction containing the code of the compiled smart contract without specifying any recipients." from [https://ethereum.org/en/developers/docs/smart-contracts/deploying/](https://ethereum.org/en/developers/docs/smart-contracts/deploying/)
