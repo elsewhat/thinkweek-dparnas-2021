@@ -17,4 +17,5 @@
 
 ## First Twitter Tweet
 [First Twitter Tweet (first tweet posted by Twitter founder and CEO Jack Dorsey) sold for 1630ETH $2.9 million](https://v.cent.co/tweet/20)
+
 ![image](https://user-images.githubusercontent.com/1133607/120368140-02478000-c312-11eb-92e9-57ca0f4ca5f7.png)
