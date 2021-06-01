@@ -1,7 +1,7 @@
 # Example of ERC-721 contract
 
 ## IDE
-[Remix](https://remix.ethereum.org/) used as an editor. 
+[Remix](https://remix.ethereum.org/) can be used as an editor solidity.
 
 ## Contract
 The [Meebits contract](https://etherscan.io/address/0x7bd29408f11d2bfc23c34f18275bbf23bb716bc7#code) from Larvalabs was selected. Larvalabs was the company behind cryptopunks NFTs and in May 2021 released the Meebits project. 
