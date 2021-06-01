@@ -33,8 +33,8 @@ An off chain algorithm, the MD5 checksum of which is stored in the contract, par
 ## Bored Ape Yacht Club - 2021
 "The Bored Ape Yacht Club is a collection of 10,000 unique Bored Ape NFTs— unique digital collectibles living on the Ethereum blockchain. Your Bored Ape doubles as your Yacht Club membership card, and grants access to members-only benefits, the first of which is access to THE BATHROOM, a collaborative graffiti board." - from [BoredApeYachtClub](https://boredapeyachtclub.com/#/home)
 
-![Ape 5972](https://user-images.githubusercontent.com/1133607/120356513-b3471e00-c304-11eb-9818-d2e0fff42fb8.png){:width="500px"}
-![Ape 9410](https://user-images.githubusercontent.com/1133607/120356541-be01b300-c304-11eb-8bf4-60eba13aece5.png){:width="500px"}
+![Ape 5972](https://user-images.githubusercontent.com/1133607/120356513-b3471e00-c304-11eb-9818-d2e0fff42fb8.png)
+![Ape 9410](https://user-images.githubusercontent.com/1133607/120356541-be01b300-c304-11eb-8bf4-60eba13aece5.png)
 
 
 [Bored Ape Yacht Club on OpenSea](https://opensea.io/assets/boredapeyachtclub?search[resultModel]=ASSETS&search[sortAscending]=false&search[sortBy]=LAST_SALE_PRICE)
