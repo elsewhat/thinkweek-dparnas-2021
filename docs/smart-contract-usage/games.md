@@ -9,7 +9,7 @@ The key difference between Axie and a traditional game is that Blockchain econom
 
 ![image](https://user-images.githubusercontent.com/1133607/120360801-73cf0080-c309-11eb-86c1-76e5746f8bc5.png)
 
-One of the co-founders in Norwegian and can be followed at [@Psycheout86](https://twitter.com/Psycheout86])
+One of the co-founders is Norwegian and can be followed at [@Psycheout86](https://twitter.com/Psycheout86])
 
 
 ## Cryptokitties
