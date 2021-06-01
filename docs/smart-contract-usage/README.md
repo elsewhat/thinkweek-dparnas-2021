@@ -33,3 +33,16 @@ You will then connect your hardware wallet as an account in Metamask. The instru
 
 ### Step 5: Stay up to date
 Twitter and Discord are the two main channels to keep any eye out for what is happening in the space. Each project typically has their own discord environment where there is alot of activity between collectors.
+
+### Step 6: Buy your first NFT
+A lot of NFTs have a current listing price. By clicking Buy Now in Opensea, the MetaMask plugin will ask you to confirm the transaction and the expected transaction cost (called gas in Ethereum).
+Once the transaction is completed, the NFT is immediately available in your account which resides in the hardware wallet. If the transaction cost supplied is lower than the rest of the market, miners will add your transaction to the blockchain and you will be left waiting.
+If this is the case, you can go to MetaMask and select speed up transaction. Here you can set the transaction cost as fast and it will likely be completed in a few seconds. Do not cancel the transaction as then you still pay the transaction cost. 
+
+### Step 7: Enjoy your tax return
+Tax return will be come a bit more complicated and not all rules are in place for NFTs.
+Norwegian Skatteettaten has some information at [Skatte- og merverdiavgiftsmessig behandling av bitcoins og andre virtuelle valutaer](https://www.skatteetaten.no/bedrift-og-organisasjon/rapportering-og-bransjer/bransjer-med-egne-regler/internett/skatt-mva-virtuell-valuta/) and Krypt for kongeriket recently had a stream called [Skatt og Krypto til Frokost: Bitcoin, DeFi og NFT | OBC, EY & Skatteetaten](https://www.youtube.com/watch?v=Lg1-fHHm0Es) shown below
+
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=Lg1-fHHm0Es"><img src="https://img.youtube.com/vi/Lg1-fHHm0Es/0.jpg" alt="IMAGE ALT TEXT"></a>
+</div>
