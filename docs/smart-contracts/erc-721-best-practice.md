@@ -7,7 +7,7 @@ In general, it's recommended to import their modules into your smart contract or
 Contracts are availble at the following github repo [https://github.com/OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts).
 
 The even have wizard at [https://wizard.openzeppelin.com/](https://wizard.openzeppelin.com/)
-![image](https://user-images.githubusercontent.com/1133607/120284119-37c17e80-c2bc-11eb-817c-b635a3683f4b.png)
+![Wizard OpenZeppeling](https://user-images.githubusercontent.com/1133607/120284189-4ad44e80-c2bc-11eb-86de-93889bd10b29.png)
 
 
 ## Scaffold-eth
