@@ -4,6 +4,7 @@
 [Meebit NFT Exploit analysis](https://iphelix.medium.com/meebit-nft-exploit-analysis-c9417b804f89)
 
 Contract with vulnerability if the attacker knows which ids are extra valuable.
+
 ´´´
 /**
  * Community grant minting.
@@ -43,7 +44,9 @@ function _mint(address _to, uint createdVia) internal returns (uint) {
     return id;
 }
 ´´´
+
 [Exploit contract](https://etherscan.io/address/0x270ff2308a29099744230de56e7b41c8ced46ffb)
+
 ´´´
 pragma solidity 0.8.4;
 
@@ -110,7 +113,8 @@ Attacker would do the following:
 
 
 ## Attack - Re-entrancy
-https://solidity-by-example.org/hacks/re-entrancy/
+[https://solidity-by-example.org/hacks/re-entrancy/](https://solidity-by-example.org/hacks/re-entrancy/)
+
 ´´´
 contract Attack {
     EtherStore public etherStore;
@@ -147,7 +151,8 @@ Example of attack:
 - [The DAO Attack](https://www.coindesk.com/understanding-dao-hack-journalists)
 
 ## Attack - Overflow
-https://solidity-by-example.org/hacks/overflow/
+[https://solidity-by-example.org/hacks/overflow/](https://solidity-by-example.org/hacks/overflow/)
+
 ´´´
 contract Attack {
     TimeLock timeLock;
@@ -174,10 +179,12 @@ contract Attack {
 ´´´
 
 Preventative techniques:
+
 - Use SafeMath to will prevent arithmetic overflow and underflow
 
 ## Attack - Front running
 Transactions take some time before they are mined. An attacker can watch the transaction pool and send a transaction, have it included in a block before the original transaction. This mechanism can be abused to re-order transactions to the attacker's advantage.
+
 ´´´
 1. Alice deploys FindThisHash with 10 Ether.
 2. Bob finds the correct string that will hash to the target hash. ("Ethereum")
@@ -190,11 +197,12 @@ Transactions take some time before they are mined. An attacker can watch the tra
  ´´´  
 
 Preventative techniques:
+
 - use commit-reveal scheme
 - use submarine send
 
 ## Attack - Self destruct
-https://solidity-by-example.org/hacks/self-destruct/
+[https://solidity-by-example.org/hacks/self-destruct/](https://solidity-by-example.org/hacks/self-destruct/)
 Selfdestruct allows a smartcontract to be deleted from Ethereum Virtual Machine. As a parameter to it, you pass the adress to receive it and this can cause issues to the adress receiving it.
 
 
@@ -202,29 +210,33 @@ Preventative techniques:
 - Avoid using address(this).balance (use msg.value instead)
 
 ## Attack - Read private data
-https://solidity-by-example.org/hacks/accessing-private-data/
+[https://solidity-by-example.org/hacks/accessing-private-data/](https://solidity-by-example.org/hacks/accessing-private-data/)
 State variables can be read through web3, for example through ´web3.eth.getStorageAt("0x3505a02BCDFbb225988161a95528bfDb279faD6b", 2, console.log)´
 
 Preventative techniques:
+
 - Don't store sensitive information on the blockchain
 
 ## Attack - Delegatecall
-https://solidity-by-example.org/hacks/delegatecall/
+[https://solidity-by-example.org/hacks/delegatecall/](https://solidity-by-example.org/hacks/delegatecall/)
 delegatecall is tricky to use and wrong usage or incorrect understanding can lead to devastating results.
 
-Preventative Techniques
+Preventative techniques:
+
 - Use stateless Library
 
 ## Phishing with tx.origin
-https://solidity-by-example.org/hacks/phishing-with-tx-origin/
+[https://solidity-by-example.org/hacks/phishing-with-tx-origin/](https://solidity-by-example.org/hacks/phishing-with-tx-origin/)
 If contract A calls B, and B calls C, in C msg.sender is B and tx.origin is A.
 
 Preventative techniques:
+
 - Use msg.sender instead of tx.origin
 
 ## Hiding Malicious Code with External Contract
-https://solidity-by-example.org/hacks/hiding-malicious-code-with-external-contract/
+[https://solidity-by-example.org/hacks/hiding-malicious-code-with-external-contract/](https://solidity-by-example.org/hacks/hiding-malicious-code-with-external-contract/)
 In Solidity any address can be casted into specific contract, even if the contract at the address is not the one being casted.
+
 ´´´
 contract Foo {
     Bar bar;
@@ -236,6 +248,7 @@ contract Foo {
 
 In the code above, there is no guarantee bar is of the class Bar. The owner calling the constructor could have passed another contract.
 
-Preventative Techniques: 
+Preventative techniques: 
+
 - Initialize a new contract inside the constructor
 - Make the address of external contract public so that the code of the external contract can be reviewed
