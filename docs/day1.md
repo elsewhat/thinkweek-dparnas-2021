@@ -12,7 +12,7 @@ The office setup has worked very well. I brought a ultrawide monitor and setup i
 
 
 ## Tools 
-The toolchain setup for structuring and publishing my notes has worked very well and it has been important that this was prepared in advance. The tool chain consist of a github repo with notes in markdown. On every commit, a github action is triggered which runs mkdocs and publishes the content to https://elsewhat.com/thinkweek-dparnas-2021/
+The toolchain setup for structuring and publishing my notes has worked very well and it has been important that this was prepared in advance. The tool chain consist of a github repo with notes in markdown. On every commit, a github action is triggered which runs mkdocs and publishes the content to [https://elsewhat.com/thinkweek-dparnas-2021/](https://elsewhat.com/thinkweek-dparnas-2021/)
 
 ## Time schedule
 The day started at 07:30 before breakfast and has typically had a 1 time focus slot followed by a break. 
