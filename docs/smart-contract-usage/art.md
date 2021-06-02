@@ -21,6 +21,7 @@ The First 5000 days sold for $69 million.
 ## XCopy
 Significance: Art style and legendary figure in space  
 Editions: Typically 10  
+
 "XCOPY is a London based crypto artist. XCOPY has been a part of the crypto art community from the start - he was on SuperRare from launch and has released over 100 NFTs on the platform. His continued success on various crypto art platforms has led to him becoming a legendary figure in the space." - from [artist site at niftygateway](https://niftygateway.com/collections/xcopy3)
 
 ![OVERLORD](https://media.niftygateway.com/image/upload/q_auto:good,w_800/v1597411820/XCOPY/2._XCOPY_OVERLORD_rqotn5.webp)
@@ -29,14 +30,17 @@ Editions: Typically 10
 ## Ghxsts
 Significance: New artist discovered due to art style and NFTs  
 Editions: Typically 1, but some more approachable works have 30  
+
 ![Ghxsts](https://user-images.githubusercontent.com/1133607/120358378-b5aa7780-c306-11eb-9019-e3fcdeeb15c7.png)
-Popular artist where the NFTs can be combined to create new art on the blockchain.
+
+Popular new artist where the NFTs can be combined to create new art on the blockchain.
 
 [Ghxsts on Opensea](https://opensea.io/collection/ghxsts)
 
 ## The Underground Sistine Chapel by Pascal Boyart
 Significance: Established artist and physical work  
 Editions: Each figure on the paining is a single NFT  
+
 "The Underground Sistine Chapel is a modern version of Michelangelo's masterpiece, painted by Pascal Boyart during the 2020 lockdowns. The work was produced over a period of 5 months in a former gold foundry close to Paris. Each NFT represents one of the 400 characters in the Last Judgment fresco. All NFTs are 1/1 editions." - from [artist website](https://en.pboy-art.com/the-underground-sistine-chapel-nfts)
 
 ![image](https://user-images.githubusercontent.com/1133607/120358973-6dd82000-c307-11eb-9e00-45e697201305.png)
