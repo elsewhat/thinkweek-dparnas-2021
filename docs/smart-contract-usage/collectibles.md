@@ -45,3 +45,8 @@ An off chain algorithm, the MD5 checksum of which is stored in the contract, par
 "Hashmasks is a living digital art collectible created by over 70 artists globally. It is a collection of 16,384 unique digital portraits. 
 By holding the artwork, you accumulate the NCT token on a daily basis, which allows you to choose a name for your portrait on the Ethereum blockchain." - from  [Hashmasks](https://www.thehashmasks.com/)
 
+## Blob mob
+"Here at the Blob Laboratory, we have perfected the most bulbous characters to ever walk in the metaverse. Each Blob is meticulously handcrafted with a unique combination of traits. Each Blob is a 1 of 1 and a proud member of the Blob Mob. The Blobs will be released on OpenSea as NFTs and can be collected, used as a profile photo, traded, or sold." - from [project website](https://www.blob.town/)
+
+![image](https://user-images.githubusercontent.com/1133607/120433385-710cf380-c37b-11eb-9eb3-2af441194cdf.png)
+
