@@ -1,7 +1,7 @@
 # Collectibles
 
 ## Cryptopunks - 2017
-Significance: Considered the first NFT collectible
+Significance: Considered the first NFT collectible  
 Editions: 10000 unique
 ![Cryptopunks](https://user-images.githubusercontent.com/1133607/120354672-eab4cb00-c302-11eb-9d9c-1d6ce62b0a74.png)
 
@@ -16,7 +16,7 @@ Total value of sales ~185 000 ETH ($486 million dollars)
 Floor: 15ETH
 
 ## NBA Top shots - 2020
-Significance: 800 000 users and most are not cryptosavy
+Significance: 800 000 users and most are not cryptosavy  
 Editions: The number of editions pr NBA Top Shot moments dependens on rarity. From 50 for legendary to 10000 or more for commons
 ![NBA Tops shots](https://user-images.githubusercontent.com/1133607/120355921-0c628200-c304-11eb-9c01-7e0e45f68772.png)
 
@@ -25,7 +25,7 @@ Editions: The number of editions pr NBA Top Shot moments dependens on rarity. Fr
 Only a scarce number of Top Shot Moments are released, so building the best collection requires a scout’s eye and a superstar’s dedication. Become a top collector by snagging in-demand packs when they drop and refine your roster by finding diamond-in-the-rough Moments on the marketplace" - from [NBA Topshots](https://nbatopshot.com/)
 
 ## Mooncats - 2017
-Significance: Early pioneer
+Significance: Early pioneer  
 Editions: 25600
 ![Mooncats](https://user-images.githubusercontent.com/1133607/120356069-3d42b700-c304-11eb-8bff-b92da9fd1118.png)
 
@@ -37,8 +37,9 @@ An off chain algorithm, the MD5 checksum of which is stored in the contract, par
 [Mooncast on Opensea](https://opensea.io/assets/acclimatedmooncats?search[sortAscending]=false&search[sortBy]=LAST_SALE_PRICE)
 
 ## Bored Ape Yacht Club - 2021
-Significance: Momentum in marked and bringing in new collectors
+Significance: Momentum in marked and bringing in new collectors  
 Editions: 10000
+
 "The Bored Ape Yacht Club is a collection of 10,000 unique Bored Ape NFTs— unique digital collectibles living on the Ethereum blockchain. Your Bored Ape doubles as your Yacht Club membership card, and grants access to members-only benefits, the first of which is access to THE BATHROOM, a collaborative graffiti board." - from [BoredApeYachtClub](https://boredapeyachtclub.com/#/home)
 
 ![Ape 5972](https://user-images.githubusercontent.com/1133607/120356513-b3471e00-c304-11eb-9818-d2e0fff42fb8.png)
@@ -48,7 +49,7 @@ Editions: 10000
 [Bored Ape Yacht Club on OpenSea](https://opensea.io/assets/boredapeyachtclub?search[resultModel]=ASSETS&search[sortAscending]=false&search[sortBy]=LAST_SALE_PRICE)
 
 ## Hashmasks
-Significance: Bridging collectibles and art
+Significance: Bridging collectibles and art  
 Editions: 16384
 ![Hashmask #16251](https://user-images.githubusercontent.com/1133607/120357239-82b3b400-c305-11eb-83c3-e139b0007581.png)
 
@@ -56,8 +57,9 @@ Editions: 16384
 By holding the artwork, you accumulate the NCT token on a daily basis, which allows you to choose a name for your portrait on the Ethereum blockchain." - from  [Hashmasks](https://www.thehashmasks.com/)
 
 ## Blob mob
-Significance: Project in forming phase
+Significance: Project in forming phase  
 Editions: 999
+
 "Here at the Blob Laboratory, we have perfected the most bulbous characters to ever walk in the metaverse. Each Blob is meticulously handcrafted with a unique combination of traits. Each Blob is a 1 of 1 and a proud member of the Blob Mob. The Blobs will be released on OpenSea as NFTs and can be collected, used as a profile photo, traded, or sold." - from [project website](https://www.blob.town/)
 
 ![image](https://user-images.githubusercontent.com/1133607/120433385-710cf380-c37b-11eb-9eb3-2af441194cdf.png)
