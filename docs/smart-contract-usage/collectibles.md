@@ -7,7 +7,7 @@ Editions: 10000 unique
 
 "The [CryptoPunks](https://www.larvalabs.com/cryptopunks) are 24x24 pixel art images, generated algorithmically. Most are punky-looking guys and girls, but there are a few rarer types mixed in: Apes, Zombies and even the odd Alien. Every punk has their own profile page that shows their attributes as well as their ownership/for-sale status" - from [CryptoPunks webiste](https://www.larvalabs.com/cryptopunks)
 
-[The auction house Christie's had an auction 12. May where 6 rare cryptopunks](https://twitter.com/ChristiesInc/status/1392282036417728519) were sold for ~$17 million
+[The auction house Christie's had an auction 12. May where 6 rare cryptopunks](https://twitter.com/ChristiesInc/status/1392282036417728519) were sold for ~$17 million.
 
 [The auction house Sootheby's will have an auction](https://www.sothebys.com/en/digital-catalogues/natively-digital-a-curated-nft-sale) of [Cryptopunk #7523](https://opensea.io/assets/0xb47e3cd837ddf8e4c57f05d70ab865de6e193bbb/7523) 10.June. 
 
@@ -23,6 +23,8 @@ Editions: The number of editions pr NBA Top Shot moments dependens on rarity. Fr
 "Hundreds of thousands of NBA fans from around the world have started collecting the most memorable Moments from NBA history. 
 
 Only a scarce number of Top Shot Moments are released, so building the best collection requires a scout’s eye and a superstar’s dedication. Become a top collector by snagging in-demand packs when they drop and refine your roster by finding diamond-in-the-rough Moments on the marketplace" - from [NBA Topshots](https://nbatopshot.com/)
+
+[Dapper Labs](https://www.dapperlabs.com/) was behind this project and they have a history of making success on their projects.
 
 ## Mooncats - 2017
 Significance: Early pioneer  
@@ -57,7 +59,7 @@ Editions: 16384
 By holding the artwork, you accumulate the NCT token on a daily basis, which allows you to choose a name for your portrait on the Ethereum blockchain." - from  [Hashmasks](https://www.thehashmasks.com/)
 
 ## Blob mob
-Significance: Project in forming phase  
+Significance: Project in forming phase and relies on cuteness factor
 Editions: 999
 
 "Here at the Blob Laboratory, we have perfected the most bulbous characters to ever walk in the metaverse. Each Blob is meticulously handcrafted with a unique combination of traits. Each Blob is a 1 of 1 and a proud member of the Blob Mob. The Blobs will be released on OpenSea as NFTs and can be collected, used as a profile photo, traded, or sold." - from [project website](https://www.blob.town/)
