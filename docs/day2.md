@@ -6,8 +6,9 @@ The topic of day 2 was a bit less structured than day 1. As the results for day 
 
 The first half on was spent on:
 
-1. Investigating level 2 blockchains and how they could interact with the main Ethereum blockchain. 
-2. Brainstorming about smart contracts of everyday life in Norway
+1. Summarizing day 1
+2. Investigating level 2 blockchains and how they could interact with the main Ethereum blockchain. 
+3. Brainstorming about smart contracts of everyday life in Norway
 
 In order to do the brainstorming about smart contracts of everyday life, I did a structuring of various of existing usage of smart contracts.
 
