@@ -42,7 +42,6 @@ nav:
       - Overview:                          internal-apis/dx-consumer-overview.md
       - First impressions:                  internal-apis/dx-consumer-first-impressions.md
       - First experience:                  internal-apis/dx-consumer-first-experience.md
-      - First success:                  internal-apis/dx-consumer-first-success.md
       - First feature request:                  internal-apis/dx-consumer-first-feature-request.md
       - First operational issue:                  internal-apis/dx-consumer-first-operational-issue.md
       - First breaking change:                internal-apis/dx-consumer-first-operational-issue.md
