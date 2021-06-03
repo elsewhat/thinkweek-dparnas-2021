@@ -37,6 +37,7 @@ nav:
     - Day 3:                              day3.md
   - Internal APIs and developer portals:                    
     - Overview:                           internal-apis/README.md
+    - Developer mindset:                internal-apis/developer-mindset.md
     - Developer experience for API consumers: 
       - Overview:                          internal-apis/dx-consumer-overview.md
     - Developer experience for API producers: 
@@ -62,4 +63,3 @@ nav:
     - Voting:                           smart-contract-usage/voting.md
     - DeFi:                           smart-contract-usage/defi.md
     - Oracles:                           smart-contract-usage/oracles.md
-  - Future of Work and the rise of DAOs: future-of-work-and-daos/README.md
