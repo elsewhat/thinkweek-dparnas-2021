@@ -13,7 +13,7 @@ The presentation "Internal Developer Portals: Developer Engagement Behind the Fi
 
 
 <div>
-  <a href="https://www.youtube.com/watch?v=ZWIUn5BHDBc"><img src="https://img.youtube.com/vi/ZWIUn5BHDBc/0.jpg" alt="IMAGE ALT TEXT"></a>
+  <a href="https://www.youtube.com/watch?v=ycuroWQwF40"><img src="https://img.youtube.com/vi/ycuroWQwF40/0.jpg" alt="IMAGE ALT TEXT"></a>
 </div>
 
 As he also mentions, there is a lot of focus on the developer experience of API consumer but very little on API producers. 
