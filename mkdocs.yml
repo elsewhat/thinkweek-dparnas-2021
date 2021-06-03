@@ -45,7 +45,7 @@ nav:
       - First use case:                      internal-apis/dx-consumer-first-use-case.md
       - First feature request:                  internal-apis/dx-consumer-first-feature-request.md
       - First operational issue:                  internal-apis/dx-consumer-first-operational-issue.md
-      - First breaking change:                internal-apis/dx-consumer-first-operational-issue.md
+      - First breaking change:                internal-apis/dx-consumer-first-breaking-change.md
     - Developer experience for API producers: 
       - Overview:                          internal-apis/dx-producer-overview.md      
   - Smart contract tech:
