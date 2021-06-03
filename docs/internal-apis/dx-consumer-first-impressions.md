@@ -7,13 +7,13 @@ In general, developers are from the offset somewhat skeptical of consuming new i
 The first step will be to gather information on the internal API. There are three major sources: 
 
 1. API Portal (hopefully the company has one common one where OpenAPI contracts are published)
-2. Enterprise search - Search engines covering internal material in the company such as presentations (which may be outdated) or work documents etc. Also includes searches on microblogging platforms such as slack and yammer.
+2. Enterprise search - Search engines covering internal material in the company such as presentations or work documents etc. Also includes searches on microblogging platforms such as slack and yammer. All this information may be outdated
 3. Code search - Search for code repositories internally in the organisation (typically github)
 
 As you can see from the above sources there are several challenges: 
 
 1. API Portal usually leads the developer directly into the OpenAPI contracts without any additional context. Most internal APIs will have a barebone OpenAPI contract not describing the business context, but just listing individual endpoints
-2. Enterprise search may lead you to outdated information or irrelevant information (it's not unusual that two APIs have almost the same name)
+2. Enterprise search may lead you to outdated information or irrelevant information (for example it's not unusual that two APIs have almost the same name)
 3. Code search have you start at the lowest possible level and it will be hard to understand the big picture on what the API supports
 
 If the information is insufficient, the next step for the developer will be to identify if they know someone who works with the API or at least knows someone who does. If the company does not have a vibrant developer community or has organsiational silos, the developer may give up and report back to the product owner. In this case, the product owner needs to go through the line organisation and request the responsible team to setup a workshope with his team.
@@ -41,4 +41,4 @@ The most mature API projects with the highest potential of reuse should be invol
 The content itself needs to be easily maintained by API producers (with possibility for API consumers to contribute). To facilitate this, using markdown and github respoitory as content store is a good choice. 
 
 The developer experience of the API portal will evolve over time, and I believe the company should control it themselves on top of an open-source stack. 
-I would prefer a static site generator (such as Jekyll or Mkdocs) publishing to Github pages. This architecture would need a customized build tool which queries the API portal software through APIs for all published OpenAPI contracts. Github actions can likely be used to handle this. This step will ensure APIs under development with no custom content in markdown are also represented in the overall API portal.
+I would prefer a static site generator (such as Jekyll or Mkdocs) publishing to Github pages. This architecture would need a customized build tool which queries the API portal software through APIs for all published OpenAPI contracts. Github actions is a good fit for this responsibility. This step will ensure APIs under development with no custom content in markdown are also represented in the overall API portal.
