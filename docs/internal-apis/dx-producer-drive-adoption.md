@@ -5,7 +5,7 @@ The more API consumers an internal API has, the more more value will it deliver 
 
 ## Sharing
 The product owner together with representatives of the DevOps team should actively present the current status and plans for the internal API. 
-This can be as a general presentation, but also directly to solution where there may be a potential. 
+This can be as a general presentation, but also directly to owners of systems where there may be a potential. 
 
 By sharing information on the internal API and lessons learned, you at the same time increase the knowledge of the internal API to the audience and this might be just the thing which creates a new API consumer in the future. 
 
