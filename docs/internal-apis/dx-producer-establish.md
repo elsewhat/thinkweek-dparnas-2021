@@ -15,7 +15,7 @@ Here are a few of the steps typically involved:
 - Get a subscription/API key from the API portal
 
 ## Scaffolding
-The establish phase is not executed very regularly executed by a single team and these kinds of process done are typically not well documented end-to-end. 
+The establish phase is not executed very regularly executed by a single team and these kinds of process are typically not well documented end-to-end. 
 However, multiple teams in your company will do the exact thing and typically will have to go through the same learning experience. 
 
 To allieviate this: 
