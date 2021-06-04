@@ -18,3 +18,4 @@ Therefore, I pivoted a bit on the deliverable to focus on the needs of API consu
 Today, I've spread the work more even across the full day from 8-21 with long breaks and "free time" in between. The experience has been good, but it has been important to stop the watching video presentations research as it wears down my energy.
 
 Albert says hi.
+![image](https://user-images.githubusercontent.com/1133607/120765366-6c7e4180-c519-11eb-8374-d3f172bd9c62.png)
