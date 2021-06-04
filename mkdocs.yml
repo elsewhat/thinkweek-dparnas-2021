@@ -56,6 +56,7 @@ nav:
       - Drive adoption:                          internal-apis/dx-producer-drive-adoption.md
       - Release strategy:                            internal-apis/dx-producer-release-strategy.md
       - Operational excellency:                          internal-apis/dx-producer-operational.md
+    - API portal ideas:                         internal-apis/api-portal.md
   - Smart contract tech:
     - Overview:                          smart-contracts/README.md
     - Learn ERC-721:                     smart-contracts/erc-721.md
