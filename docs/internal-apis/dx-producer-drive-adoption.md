@@ -12,10 +12,10 @@ By sharing information on the internal API and lessons learned, you at the same 
 ## Onboarding process
 Make the onboarding process for potential API consumers as simple as possible. Point them directly to the relevant information and follow up the progress or any questions they may have. 
 
-If a potential API consumer has a use case where the internal API already has 80% of the functionality, but is missing the last 20%, prioritize the maturing and implementation of the delta high compared to other requests.
+If a potential API consumer has a use case where the internal API already has 80% of the functionality, but is missing the last 20%, prioritize the maturing and implementation of the delta functionality high compared to other requests.
 
 ## Leads 
-Be active and follow up leads. Be aware of ongoing initiatives and think of the internal API can deliver value there. 
+Be active and follow up leads. Be aware of ongoing initiatives and think of if the internal API can deliver value there. 
 Reach out to them informally to discuss the possiblities. 
 
 ## Find new ways of consuming the API
