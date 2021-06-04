@@ -14,8 +14,8 @@ Do automated tests at least every hour through a background script and send aler
 It should be a clear goal that the DevOps team should be aware of issues and working on resolving them, before it is reported by API consumers.
 
 
-## Operational issue
-Prepare a process for how to handle operational issue which require an emergency change. 
+## Operational issues
+Prepare a process for how to handle operational issues which require an emergency change. 
 Include responsibilities and stepwise explanation on how to continously inform affected API consumers of the progress.
 
 ## Monitoring of users with missing authorization
