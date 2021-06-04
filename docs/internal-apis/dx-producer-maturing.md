@@ -13,6 +13,8 @@ Create a branch of the OpenAPI contract for maturing the feature.
 As early as possible, use a mock server or a dev instance of the API portal to have the new planned endpoints return mock data for testing by the API consumer.
 Generate documentation for the new planned endpoints of OpenAPI contract as this is more understandable than the raw OpenAPI file for many API consumers. 
 
+In most cases, the internal funding for the implementation comes from the API consumer side.
+
 ## Who to involve in the maturing?
 This is an area where there are many different elements which must be balanced. 
 
