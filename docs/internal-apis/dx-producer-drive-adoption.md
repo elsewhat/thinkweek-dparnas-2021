@@ -1,6 +1,6 @@
 # Drive adoption
 An API in itself doesn't deliver value before it's consumed so it makes sense to spend effort on marketing the internal API to potential internal consumers.
-The more API consumer an internal API, it will deliver more value and will evolve quicker due to increased funding.
+The more API consumers an internal API has, the more more value will it deliver and will evolve quicker due to increased funding.
 
 
 ## Sharing
