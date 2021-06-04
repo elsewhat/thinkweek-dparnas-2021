@@ -2,6 +2,7 @@
 In order to fullfil a business outcome, there is likely a set of endpoints and resource models in the OpenAPI contract to be defined.
 
 To do this it's essential to understand:  
+
 - The flow in the first API consumer application
 - How the resources are represented in the data model of the back-end
 - Business process context the API consumer application and the back-end relate to
